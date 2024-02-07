@@ -2,7 +2,6 @@ import React from 'react'
 import './WeatherApp.css'
 import { useState } from 'react'
 import { useEffect } from 'react'
-import axios from 'axios'
 import search_icon from "../Assets/search.png"
 import clear from "../Assets/clear.png"
 import cloud from "../Assets/cloud.png"
